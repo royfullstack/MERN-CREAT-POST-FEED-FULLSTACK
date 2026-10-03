@@ -1,4 +1,5 @@
-This is a create post and feed show project
+<pre>
+   This is a create post and feed show project
 ##Backend:
    npm init -y
    npm i express mongoose
@@ -18,3 +19,5 @@ This is a create post and feed show project
    npm i react-router-dom
    npm run dev
    npm i axios
+
+</pre>
